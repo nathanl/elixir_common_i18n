@@ -44,7 +44,7 @@ msgstr "todavía están asociado con esta entrada"
 msgid "should be %{count} character(s)"
 msgid_plural "should be %{count} character(s)"
 msgstr[0] "debe tener %{count} caractere(s)"
-msgstr[0] "debe tener %{count} caractere(s)"
+msgstr[1] "debe tener %{count} caractere(s)"
 
 msgid "should have %{count} item(s)"
 msgid_plural "should have %{count} item(s)"
